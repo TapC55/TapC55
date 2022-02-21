@@ -1,0 +1,233 @@
+body{margin: 0;
+  padding: 0;
+}
+
+h1
+{
+  font-size: 40px;
+  color:darkred ;
+  text-shadow: 2px 3px 3px rgba(0,0,0,0.5);
+  text-align: center;
+
+}
+ul{
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+li{
+  list-style: ;
+}
+a{
+  text-decoration: none;
+  color: darkblue;
+}
+p{
+  text-align: left;
+  margin: 2px;
+}
+h2{
+  text-align: center;
+}
+h4
+{text-align: center;}
+ol
+{
+  width: 95%;
+  margin: 0;
+}
+nav{
+  overflow: hidden;
+  background-color: whitesmoke;
+  position: fixed ;
+  width:100%;
+  height: 35px;
+  opacity: 0.8;
+  z-index: 1;
+}
+header li
+{
+  float: right;
+  font-size: 1.2em;
+  text-align: center;
+}
+header li a
+{text-decoration: none;
+  display: block;
+  text-align: center;
+  padding: 8px 16px;
+}
+#A
+{
+  float: left;
+  color:green;
+}
+hr{
+  width: 100%;
+  height: 2.5px;
+  background-color: black;
+  border: 0;
+  margin: 0;
+  padding: 0;
+}
+#CenterPart
+{
+  display: block;
+  width: 54%;
+  height: 747px;
+  margin: auto ; 
+  background-color: burlywood;
+  text-align: center;
+  align-content: center;
+  border: 3px solid black;
+}
+#imageS
+{
+  display: block;
+  padding: 0;
+  margin: 0;
+  width: 23%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+#imageL
+{
+  display: block;
+  padding: 0;
+  margin: 0;
+  width: 23%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+
+.tableau-style{
+  border-collapse: collapse;
+  width: 98%;
+  box-shadow: 0 5px 50px rgba(0, 0, 0, 0.15);
+  cursor: pointer;
+  margin:0px auto;
+  border: 2px solid black;
+  text-align: center;
+}
+thead tr{
+  background-color: darkred;
+  text-align: center;
+}
+
+tbody tr, td , th{
+  border: 1px solid black;
+  color: black;
+}
+
+.Auteur
+{
+  width: 100px;
+  height: 100px;
+}
+#Presentation
+{text-align: left;}
+}
+#tableauOPE
+{
+
+}
+#ProjetNSI
+nav{
+  background-color: #0B2161;
+  border: 1px;
+  width:65px;
+  height:65px;
+  opacity:0.8;
+  border-radius :50%;
+  float:left;
+  margin:0;
+  position: absolute;
+  bottom: 35px;
+  left: 150px;
+  text-align: center;
+}
+#CerclePos
+{color: orangered;
+  position: absolute;
+  top:12px;
+  left: 2px;
+}
+.SBar
+{
+  overflow: hidden;
+  background-color: whitesmoke;
+  position: fixed ;
+  bottom: 0;
+  width: 100%;
+  height: 35px;
+  opacity: 0.8;
+  z-index: 1;
+}
+header li
+{
+  float: right;
+  font-size: 1.2em;
+  text-align: center;
+}
+header li a
+{text-decoration: none;
+  display: block;
+  text-align: center;
+  padding: 8px 16px;
+}
+.lien
+{
+  float: left;
+  margin: 3px;
+  color: black;
+  font-size: 1.1em;
+  font-style: italic;
+}
+
+.imageO
+{
+  width: 88px;
+  height: 90px;
+}
+.image1
+{
+  width: 88px;
+  height: 120px;
+}
+.logoDBOP
+{
+  width: 60%;
+  height:140px ;
+}
+
+#shiron
+{
+  display: block;
+  width: 100%;
+  height: 535px;
+  margin: auto ; 
+  background-color: burlywood;
+  text-align: center;
+  align-content: center;
+
+}
+
+#CenterPart1
+{
+  display: block;
+  width: 54%;
+  height: 747px;
+  margin: auto ; 
+  background-color: burlywood ;
+  text-align: center;
+  align-content: center;
+  border: 3px solid black;
+}
+br
+{
+  margin: 10px;
+}
